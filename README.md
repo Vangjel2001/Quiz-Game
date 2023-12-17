@@ -18,7 +18,6 @@ This project implements a Java-based quiz application that loads questions from 
 ### Using Eclipse:
 
 1. **Download the Project:**
-   - Visit the GitHub repository page at https://github.com/your-username/your-repo.
    - Click on the "Code" button and select "Download ZIP".
    - Extract the downloaded ZIP file to a directory on your local machine.
 
@@ -39,7 +38,6 @@ This project implements a Java-based quiz application that loads questions from 
 ### Using Visual Studio Code:
 
 1. **Download and Clone the Project:**
-   - Visit the GitHub repository page at https://github.com/your-username/your-repo.
    - Click on the "Code" button and copy the repository URL.
    - Open Visual Studio Code.
    - Open the integrated terminal in VS Code (`Ctrl+Shift+``).
@@ -60,14 +58,7 @@ This project implements a Java-based quiz application that loads questions from 
 
 ## CSV File Format
 
-The `Questions.csv` file contains quiz questions in a specific format. Each row represents a question with columns for attributes like question text, options, correct answer, etc.
-
-### Example Questions in `Questions.csv`:
-
-Question Text,Correct Answer,Question Category,Wrong Answer 1,Wrong Answer 2,Wrong Answer 3
-What is the capital of France?,Paris,Geography,London,Berlin,Madrid
-Who won the FIFA World Cup in 2018?,France,Football,Brazil,Germany,Argentina
-... (Other questions)
+The `Questions.csv` file contains quiz questions in a specific format. Each row represents a question with columns for attributes like question text, correct answer etc.
 
 
 ## Notes
